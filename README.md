@@ -208,3 +208,5 @@ CatalizCS - [Facebook](https://facebook.com/CatalizCS) - [GitHub](https://github
 SpermLord - [GitHub](https://github.com/spermlord) - [Facebook](https://fb.me/MyNameIsSpermLord)
 ## LƯU Ý:
 Đã đủ node_modules và có thể trực tiếp npm start luôn
+## CREDIT
+Cre thuộc về Vũ Nguyễn Thành Tâm (catalizcs) và spermlord
