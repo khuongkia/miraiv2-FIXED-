@@ -207,4 +207,4 @@ CatalizCS - [Facebook](https://facebook.com/CatalizCS) - [GitHub](https://github
 
 SpermLord - [GitHub](https://github.com/spermlord) - [Facebook](https://fb.me/MyNameIsSpermLord)
 ## LƯU Ý:
-Đã cài sẵn node_modules và có thể npm start chạy luôn mà không cần npm 
+Chưa đủ node_modules và phải npm start 1 lần
