@@ -207,4 +207,4 @@ CatalizCS - [Facebook](https://facebook.com/CatalizCS) - [GitHub](https://github
 
 SpermLord - [GitHub](https://github.com/spermlord) - [Facebook](https://fb.me/MyNameIsSpermLord)
 ## LƯU Ý:
-Chưa đủ node_modules và phải npm install 1 lần
+Đã đủ node_modules và có thể trực tiếp npm start luôn
