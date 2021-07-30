@@ -7,13 +7,13 @@
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "buithanhnhi2403@gmail.com",
+    "PASSWORD": "240320nN",
     "OTPKEY": "",
     "BOTNAME": "BOT 🤖",
     "PREFIX": "!",
     "ADMINBOT": [
-        "USERID1",
+        "100001053495748",
         "USERID2"
     ],
     "DATABASE": {
