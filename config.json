@@ -1,5 +1,5 @@
 {
-    "language": "en",
+    "language": "vi",
     "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
@@ -7,14 +7,13 @@
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "buithanhnhi2403@gmail.com",
-    "PASSWORD": "240320nN",
+    "EMAIL": "",
+    "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "BOT 🤖",
+    "BOTNAME": "Mèo Siêu Sao",
     "PREFIX": "!",
     "ADMINBOT": [
-        "100001053495748",
-        "USERID2"
+        "100001053495748"
     ],
     "DATABASE": {
         "sqlite": {
