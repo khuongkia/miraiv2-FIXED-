@@ -38,14 +38,8 @@ const fs = global.nodemodule["fs-extra"];
 "https://media.giphy.com/media/1gOykJJoWktIkf2yuO/giphy.gif",
 "https://4.bp.blogspot.com/-yAExPAr7JeA/WDaBRVuJwxI/AAAAAAALb7I/Dbvda0KD5uECF3_SBjsvkl2_mqP9_BweQCLcB/s1600/AS000834_17.gif",
   ];
-  var callback = () => api.sendMessage({body:`\n» Info người vận hành bot «\n👤FB: Phạm Văn Diện\n- UID: 100004253741257\n- Inbox: m.me/PhamVanDien.User\n- Giới tính: Nam ( ͡° ͜ʖ ͡°)
-- Mối quan hệ: Tìm hiểu
-- SN: 2004
-------------
-💳MB: 0332222817
-💳VIB: 006019449
-📲MoMo: 0332222817
-
-----Jukie----`,attachment: fs.createReadStream(__dirname + "/cache/5.jpg")}, event.threadID, () => fs.unlinkSync(__dirname + "/cache/5.jpg")); 
+  var callback = () => api.sendMessage({body:`\n» Info người vận hành bot «\n👤FB: Mèo Siêu Sao 😤\n- UID: 100001053495748\n- Inbox: m.me/from.zoe\n- Giới tính: ramdon ( ͡° ͜ʖ ͡°)
+- Mối quan hệ 👫: ế lòi lz 😼
+- SN 🎂: 1900 hồi đó 😎`,attachment: fs.createReadStream(__dirname + "/cache/5.jpg")}, event.threadID, () => fs.unlinkSync(__dirname + "/cache/5.jpg")); 
       return request(encodeURI(link[Math.floor(Math.random() * link.length)])).pipe(fs.createWriteStream(__dirname+"/cache/5.jpg")).on("close",() => callback());
    };
