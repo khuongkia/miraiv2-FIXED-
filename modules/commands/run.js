@@ -4,7 +4,7 @@ module.exports.config = {
 	hasPermssion: 2,
 	credits: "Mirai Team",
 	description: "running shell",
-	commandCategory: "system",
+	commandCategory: "Hệ thống",
 	usages: "[Script]",
 	cooldowns: 5,
 	dependencies: {
